@@ -10,3 +10,4 @@ git alias.nombredelalias ¨comando del alias¨
 git tag ponemos etiquetas a las versiones
 git branch creamos una nueva rama 
 git switch cabiamos a la rama creada 
+git merge para combinar
