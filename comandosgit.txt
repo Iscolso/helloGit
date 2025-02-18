@@ -1,0 +1,10 @@
+git init
+git log es para ver todo el historial
+git reflog para ver TODO el historial despues de borrar
+git add anadimos al stage para tomar la foto
+git commit -m ¨comentario¨ tomamos la foto y se guarda
+git checkout id nos movemos en una rama
+git reset --hard id, nos movemos en una rama y borramos el resto
+.gitignore /**. para ignorar ficheros o archivos que no queramos que git tome en cuenta
+git alias.nombredelalias ¨comando del alias¨
+git tag ponemos etiquetas a las versiones
