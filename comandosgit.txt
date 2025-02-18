@@ -12,3 +12,4 @@ git branch creamos una nueva rama
 git switch cabiamos a la rama creada 
 git merge para combinar
 git stash no hace commit pero almacena 
+git branch -d nombre de la rama para eliminar una rama una vez hayamos hecho el merge 
