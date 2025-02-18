@@ -8,3 +8,5 @@ git reset --hard id, nos movemos en una rama y borramos el resto
 .gitignore /**. para ignorar ficheros o archivos que no queramos que git tome en cuenta
 git alias.nombredelalias ¨comando del alias¨
 git tag ponemos etiquetas a las versiones
+git branch creamos una nueva rama 
+git switch cabiamos a la rama creada 
