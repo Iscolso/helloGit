@@ -11,3 +11,4 @@ git tag ponemos etiquetas a las versiones
 git branch creamos una nueva rama 
 git switch cabiamos a la rama creada 
 git merge para combinar
+git stash no hace commit pero almacena 
